@@ -1,3 +1,5 @@
+# CLONE BY https://github.com/django-ve/django-helloworld
+
 =================
 django-helloworld
 =================
